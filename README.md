@@ -1,23 +1,23 @@
-# Merhaba! 👋
+# Hi 👋 I'm Buse Aydın
 
-Ben [Adınız Soyadınız]! 3. sınıf bilgisayar mühendisliği öğrencisiyim ve GitHub profilime hoş geldiniz!
+I'm [Your Name]! Welcome to my GitHub profile!
 
-## 📚 Hakkımda
+## 📚 About Me
 
-- 🎓 Şu anda [Üniversite Adı]'nde 3. sınıf bilgisayar mühendisliği öğrencisiyim.
-- 🌱 Kendimi geliştirmek ve yeni teknolojiler öğrenmek için sürekli çaba harcıyorum.
-- 💼 Özellikle [İlgi Alanınız] konusunda ilgileniyorum ve bu alanda deneyim kazanmaya çalışıyorum.
+- 🎓 I'm currently a third-year computer engineering student at [University Name].
+- 🌱 I'm constantly striving to improve myself and learn new technologies.
+- 💼 I have a keen interest in [Your Area of Interest] and I'm actively working to gain experience in this field.
 
-## 🚀 Kullandığım Araçlar ve Diller
+## 🚀 Tools and Languages
 
-- 💻 Bildiğim diller arasında [Dil 1], [Dil 2], ve [Dil 3] bulunmaktadır.
-- 🛠️ Kullandığım araçlar arasında [Araç 1], [Araç 2], ve [Araç 3] yer almaktadır.
-- 🌐 Sosyal medya hesaplarım: [Twitter](https://twitter.com/kullanici_adi), [LinkedIn](https://www.linkedin.com/in/kullanici_adi/), [Instagram](https://www.instagram.com/kullanici_adi/)
+- 💻 I'm proficient in languages such as [Language 1], [Language 2], and [Language 3].
+- 🛠️ Among the tools I use are [Tool 1], [Tool 2], and [Tool 3].
+- 🌐 You can find me on social media: [Twitter](https://twitter.com/username), [LinkedIn](https://www.linkedin.com/in/username/), [Instagram](https://www.instagram.com/username/)
 
-## 🤝 İletişim
+## 🤝 Get in Touch
 
-- 📫 Benimle iletişime geçmek için e-posta adresim: [E-posta Adresiniz]
+- 📫 Feel free to reach out to me via email at [Your Email Address].
 
-## 🌟 Teşekkürler
+## 🌟 Thank You
 
-Profilimi ziyaret ettiğiniz için teşekkür ederim! Daha fazla bilgi almak veya iletişime geçmek için lütfen benimle bağlantı kurun.
+Thank you for visiting my profile! If you'd like to learn more or get in touch, please feel free to reach out to me.
