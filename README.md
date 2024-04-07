@@ -1,6 +1,6 @@
 # Hi 👋 I'm Buse Aydın
 
-I'm [Your Name]! Welcome to my GitHub profile!
+I'm Buse Aydın! Welcome to my GitHub profile!
 
 ## 📚 About Me
 
