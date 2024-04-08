@@ -4,20 +4,27 @@ I'm Buse Aydın! Welcome to my GitHub profile!
 
 ## 📚 About Me
 
-- 🎓 I'm currently a third-year computer engineering student at [University Name].
+- 🎓 I'm currently a third-year computer engineering student at İstanbul Topkapı University.
 - 🌱 I'm constantly striving to improve myself and learn new technologies.
-- 💼 I have a keen interest in [Your Area of Interest] and I'm actively working to gain experience in this field.
+- 💼 - 💼 I have a keen interest in Software Development and am actively working to gain experience in this field. I am particularly drawn to the frontend aspect of coding and software development.
 
 ## 🚀 Tools and Languages
 
-- 💻 I'm proficient in languages such as [Language 1], [Language 2], and [Language 3].
-- 🛠️ Among the tools I use are [Tool 1], [Tool 2], and [Tool 3].
-- 🌐 You can find me on social media: [Twitter](https://twitter.com/username), [LinkedIn](https://www.linkedin.com/in/username/), [Instagram](https://www.instagram.com/username/)
+- 💻 C C++ Java Python Swift JavaScript CSS HTML SQL Flutter php React
+- 🛠️ Visual Studio Code IntelliJ IDEA PyCharm Xcode Microsoft Word Microsoft Excel
+- 🌐 You can find me on Linkedin : https://www.linkedin.com/in/fatma-buse-aydın-b42971251/
 
 ## 🤝 Get in Touch
 
-- 📫 Feel free to reach out to me via email at [Your Email Address].
+- 📫 Feel free to reach out to me via email at busea7539@gmail.com].
 
 ## 🌟 Thank You
 
 Thank you for visiting my profile! If you'd like to learn more or get in touch, please feel free to reach out to me.
+
+
+GitHub Statistics
+
+
+
+Language Statistics
