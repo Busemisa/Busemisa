@@ -23,5 +23,4 @@ I'm Buse Aydın! Welcome to my GitHub profile!
 Thank you for visiting my profile! If you'd like to learn more or get in touch, please feel free to reach out to me.
 
 
-![cengel_gold1](https://github.com/Busemisa/Busemisa/assets/144456834/3a774673-2ed2-4e9b-83c0-675479e43dde)
 
