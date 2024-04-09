@@ -6,7 +6,9 @@ I'm Buse Aydın! Welcome to my GitHub profile!
 
 - 🎓 I'm currently a third-year computer engineering student at İstanbul Topkapı University.
 - 🌱 I'm constantly striving to improve myself and learn new technologies.
-- 💼 - 💼 I have a keen interest in Software Development and am actively working to gain experience in this field. I am particularly drawn to the frontend aspect of coding and software development.
+
+💼 - 💼 I have a strong interest in Software Development and am actively working to gain experience in this field. I am particularly drawn to the frontend aspect of coding and software development.
+
 
 ## 🚀 Tools and Languages
 
