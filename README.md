@@ -2,10 +2,6 @@
 
 I'm Buse Aydın! Welcome to my GitHub profile!
 
-Instagram Badge Medium Badge linkedin
-
-
-
 ## 📚 About Me
 
 - 🎓 I'm currently a third-year computer engineering student at İstanbul Topkapı University.
